@@ -1,0 +1,6 @@
+{
+  "url": "https://example.com",
+  "devices": ["iphone-15", "pixel-8", "ipad-air", "desktop-hd"],
+  "orientation": "landscape",
+  "network": "slow-3g"
+}
